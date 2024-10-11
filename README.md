@@ -1,0 +1,1 @@
+This project aims to analyze customer cancellations, identifying the main causes and proposing improvement actions that led to a reduction in the cancellation rate from 56% to 18%. By utilizing data visualization tools in Python, we will seek to understand the factors influencing this decision and how effective interventions can positively impact customer retention.
